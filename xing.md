@@ -48,4 +48,5 @@
 - 2017.10.22 1408 我喜欢冷静的人，但极端讨厌冷漠的人。我要的是冷静面孔下燃烧的炽热的灵魂。
 - 2017.10.23 1407 你的格局，决定你的结局。
 - 2017.10.24 1406 如果你想造一艘船，不要抓一批人来搜集材料，不要指挥他们做这做那，你只要教他们如何渴望大海就够了。
-- 2017.10.23 1405 What matters in life is not what happens to you but what you remember and how you remember it.
+- 2017.10.25 1405 What matters in life is not what happens to you but what you remember and how you remember it.
+- 2017.10.26 1404 如果可以，请让我预支一段如莲的时光，哪怕将来某一天加倍偿还，这个雨季会在何时停歇，无从知晓。但我知道，你若安好便是晴天。
