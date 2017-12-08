@@ -92,3 +92,4 @@
 - 2017.12.05 1364 纵然一次次心碎，我们屹立依旧。
 - 2017.12.06 1363 伟大的心胸，应该表现出这样的气概——用笑脸来迎接悲惨的厄运，用百倍的勇气来应付一切的不幸。
 - 2017.12.07 1362 像我们人类这样的两足兽，行动本不是那么自由的，心也是受到拘禁的，眼界是狭小的可怜。
+- 2017.12.08 1361 Allows wisdom to emerge rather than trying to impose it, and emulates nature rather than trying to control it, and seeks to make things simpler rather than more complex. 
