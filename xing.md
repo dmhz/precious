@@ -99,5 +99,5 @@
 - 2017.12.11 1358 对自己好一点，因为一辈子不长，对身边的人好一点，因为下辈子不一定能遇见。
 - 2017.12.12 1357 我在迷宫苦寻你踪迹，你在另一个迷宫苦寻我踪迹，会不会有那么一天，当我走出迷宫，你也恰巧走出迷宫。而这两个迷宫的门，正好相对。
 - 2017.12.13 1356 向日葵告诉我，只要面对着阳光努力向上，日子就会变得单纯而美好。
-- 2017.12.14 1355 It doesn't matter how slow you are,as long as you're determined to get there,you'll get there.
+- 2017.12.14 1355 It doesn't matter how slow you are, as long as you're determined to get there, you'll get there.
 - 2017.12.15 1354 
