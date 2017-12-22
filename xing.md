@@ -105,3 +105,5 @@
 - 2017.12.18 1351 Don't judge peple before you turly know them, the truth might surprise you.
 - 2017.12.19 1350 记得你是女子，你难过，就哭，狠狠的哭，午夜梦回，随你便，然后再忘记你是女子，站在太阳下，就要懂得什么是坚强。
 - 2017.12.20 1349 自省是最好的安慰，与其无视心痛，不如直接面对，像寒冷的冬日穿上一件温暖的衣服一样接受它。失败可以孕育和平，死亡可以孕育美好，遗憾也可以孕育自由。
+- 2017.12.21 1348 I hope you live a life you're proud of.
+- 2017.12.22 1347 if today were the last day of my life,would I want to do what I am about to do today?
