@@ -107,3 +107,4 @@
 - 2017.12.20 1349 自省是最好的安慰，与其无视心痛，不如直接面对，像寒冷的冬日穿上一件温暖的衣服一样接受它。失败可以孕育和平，死亡可以孕育美好，遗憾也可以孕育自由。
 - 2017.12.21 1348 I hope you live a life you're proud of.
 - 2017.12.22 1347 If today were the last day of my life, would I want to do what I am about to do today?
+- 2017.12.23 1346 To tame means to establish ties.
