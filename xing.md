@@ -108,3 +108,4 @@
 - 2017.12.21 1348 I hope you live a life you're proud of.
 - 2017.12.22 1347 If today were the last day of my life, would I want to do what I am about to do today?
 - 2017.12.23 1346 To tame means to establish ties.
+- 2017.12.24 1345 That is all of the time you have left in the world,son.Use it wisely.
