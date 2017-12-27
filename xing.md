@@ -108,6 +108,6 @@
 - 2017.12.21 1348 I hope you live a life you're proud of.
 - 2017.12.22 1347 If today were the last day of my life, would I want to do what I am about to do today?
 - 2017.12.23 1346 To tame means to establish ties.
-- 2017.12.24 1345 That is all of the time you have left in the world,son.Use it wisely.
+- 2017.12.24 1345 That is all of the time you have left in the world, son. Use it wisely.
 - 2017.12.25 1344 But sooner or later the man who wins is the man who thinks he can.
 - 2017.12.26 1343 有的爱是指甲，剪掉还会重长，无关痛痒，而有的爱确是牙齿，让人无法自拔。折磨人的不是别离，而是回忆。你站在原地，以为还回得去，可是世上有成千上万种爱，从来没有一种，可以重来。
