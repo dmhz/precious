@@ -111,3 +111,5 @@
 - 2017.12.24 1345 That is all of the time you have left in the world, son. Use it wisely.
 - 2017.12.25 1344 But sooner or later the man who wins is the man who thinks he can.
 - 2017.12.26 1343 有的爱是指甲，剪掉还会重长，无关痛痒，而有的爱确是牙齿，让人无法自拔。折磨人的不是别离，而是回忆。你站在原地，以为还回得去，可是世上有成千上万种爱，从来没有一种，可以重来。
+- 2017.12.27 1342 明知没意义，却无法不执着——谁都有这样恶存在。
+- 2017.12.28 1341 有时候喜欢和分别一样，都蓄谋已久，也都莫名其妙地毫无理由。
