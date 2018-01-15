@@ -126,3 +126,4 @@
 - 2018.01.08 1330 I hope you can see things that startle you.
 - 2018.01.09 1329 We can make the best or the worst of it,I hope you can make the best of it.
 - 2018.01.10 1328 If you find that you're not,I hope you have strength to start all over again.
+- 2018.01.11 1327 
