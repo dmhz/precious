@@ -139,3 +139,4 @@
 - 2018.02.03 1304 爱情，爱情。就是因为爱，搞出了好多事情。
 - 2018.02.11 1296 对你特别好的人，一定是积攒了太久的爱。
 - 2018.02.12 1295 The person treats you so well must have pressed his love for you for such a long time.
+- 2018.02.25 1282 好喜欢你，你知不知道。
