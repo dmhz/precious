@@ -88,6 +88,7 @@
 - 2017.11.30 1369 从来如此，便对吗？
 - 2017.12.01 1368 惟沉默是最高的轻蔑。
 - 2017.12.02 1367 友谊是两颗心真诚相待，而不是一颗心对另一颗心的敲打。
+
 - 2017.12.03 1366 图安稳就没有自由，要自由就要历些危险。只有这两条路。
 - 2017.12.04 1365 终有一日，你我各结亲，一妻二妾三四儿女，五六年间，苍海桑田，历历过往七八皆成旧梦，剩余二三不过年少轻狂，老来相忆，空作笑谈。
 - 2017.12.05 1364 纵然一次次心碎，我们屹立依旧。
@@ -151,7 +152,34 @@
 - 2018.02.01 1306 I like the night,without the dark,we'd never see the stars.
 - 2018.02.02 1305 Books are often far more than just books.
 - 2018.02.03 1304 爱情，爱情。就是因为爱，搞出了好多事情。
+- 2018.02.04 1303 You can measure your worth by our dedication to your path,not by your successes or failures.
+- 2018.02.05 1302 Life is filled with secrets, you can't learn them all at once.
+- 2018.02.06 1301 Fear cuts deeper than swords.
+- 2018.02.07 1300 There is one irrefutable law of the univese:we are each responsible for our own life.
+- 2018.02.08 1299 The mind is what the mind is fed.
+- 2018.02.09 1298 Remember, to kown and not to do is really not to know.
+- 2018.02.10 1297 记住：知而不行，则为不知。
 - 2018.02.11 1296 对你特别好的人，一定是积攒了太久的爱。
 - 2018.02.12 1295 The person treats you so well must have pressed his love for you for such a long time.
-
+- 2018.02.13 1294 Self-awareness is the process of getting to konw yourself from the inside out and the outside in.
+- 2018.02.14 1293 自我意识是一个从内到外再从外到内了解自己的过程。
+- 2018.02.15 1292 I have no more to say except this:we must live with our own conscience.
+- 2018.02.16 1291 我只有一点要说：我们必须带着自己的良心活着。
+- 2018.02.17 1290 你若善意的理解生活，生活会回报你温暖。
+- 2018.02.18 1289 别人欺骗你，那是在欺负你的智商，如果不幸被骗，那得在智商上下功夫，别在情绪上做文章。
+- 2018.02.19 1288 用自己好的一面去和别人交往，是对别人的敬重，而不是对别人的虚伪。
+- 2018.02.20 1287 
+- 2018.02.21 1286
+- 2018.02.22 1285
+- 2018.02.23 1284
+- 2018.02.24 1283
 - 2018.02.25 1282 好喜欢你，你知不知道。
+- 2018.02.26 1281
+- 2018.02.27 1280
+- 2018.02.28 1279
+- 2018.03.01 1278
+- 2018.03.02 1277
+- 2018.03.03 1276
+- 2018.03.04 1275
+- 2018.03.05 1274
+- 2018.03.06 1273
