@@ -139,6 +139,8 @@
 - 2018.01.20 1318 Faith removes limitations.
 - 2018.01.21 1317 Never put off till omorrow the fun you can have today.
 - 2018.01.22 1316 愿你在别打击时 记起你的珍贵 抵抗恶意 愿你在迷茫时 坚信你的珍贵 爱你所爱 行你所行 听从你心 无问西东
+- 2018.01.23 1315 什么时真实 你看到什么 听到什么 做什么 和谁在一起 有一种 从心灵深处 满溢出来的不懊悔 也不羞耻的平和和喜悦
+
 - 2018.02.03 1304 爱情，爱情。就是因为爱，搞出了好多事情。
 - 2018.02.11 1296 对你特别好的人，一定是积攒了太久的爱。
 - 2018.02.12 1295 The person treats you so well must have pressed his love for you for such a long time.
