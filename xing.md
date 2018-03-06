@@ -136,7 +136,9 @@
 - 2018.01.18 1320 我会一直爱你，直到四海枯竭，直到太阳把岩石融化，只要我一息尚存。
 - 2018.01.19 1319 愿朱颜不改常依旧，花中消遣，酒内忘忧。分茶攧竹，打马藏阄；通五音六律滑熟，甚闲愁到我心头！你道我老也，暂休。
 - 2018.01.20 1318 Faith removes limitations.
+- 2018.01.21 1317 Never put off till omorrow the fun you can have today.
 - 2018.02.03 1304 爱情，爱情。就是因为爱，搞出了好多事情。
 - 2018.02.11 1296 对你特别好的人，一定是积攒了太久的爱。
 - 2018.02.12 1295 The person treats you so well must have pressed his love for you for such a long time.
+
 - 2018.02.25 1282 好喜欢你，你知不知道。
