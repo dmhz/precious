@@ -137,6 +137,7 @@
 - 2018.01.17 1321 人生为棋，我愿为卒，行动虽慢；何曾后退。
 - 2018.01.18 1320 我会一直爱你，直到四海枯竭，直到太阳把岩石融化，只要我一息尚存。
 - 2018.01.19 1319 愿朱颜不改常依旧，花中消遣，酒内忘忧。分茶攧竹，打马藏阄；通五音六律滑熟，甚闲愁到我心头！你道我老也，暂休。
+
 - 2018.01.20 1318 Faith removes limitations.
 - 2018.01.21 1317 Never put off till omorrow the fun you can have today.
 - 2018.01.22 1316 愿你在别打击时 记起你的珍贵 抵抗恶意 愿你在迷茫时 坚信你的珍贵 爱你所爱 行你所行 听从你心 无问西东
@@ -183,3 +184,5 @@
 - 2018.03.04 1275 人生似树，只有删除了遗憾与悔恨的繁枝蔓节，才有属于自己的天空。
 - 2018.03.05 1274 人生的美好源自爱，爱若盛开，美景自来。人讲素质、涵养、胸怀。这就需要经历、磨练、修养，还需要经常的省思、自检、自度。也就是智慧的培养，真知的理念，随顺的心性，豁达的心态。
 - 2018.03.06 1273 所谓幸福，就是和对的人，以彼此都舒服的方式，一起过日子。
+- 2018.03.07 1272 The most painful thing is losing yourself in the process of loving someone too much, and forgetting that you are special too.
+- 2018.03.08 1271 The more women help one another, the more we help ourselves.
