@@ -186,3 +186,5 @@
 - 2018.03.06 1273 所谓幸福，就是和对的人，以彼此都舒服的方式，一起过日子。
 - 2018.03.07 1272 The most painful thing is losing yourself in the process of loving someone too much, and forgetting that you are special too.
 - 2018.03.08 1271 The more women help one another, the more we help ourselves.
+- 2018.03.09 1270 You have to let go of who you were to become who you will be.
+- 2018.03.10 1269 必须放下过去的自己，才能变成未来的自己。
