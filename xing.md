@@ -188,3 +188,5 @@
 - 2018.03.08 1271 The more women help one another, the more we help ourselves.
 - 2018.03.09 1270 You have to let go of who you were to become who you will be.
 - 2018.03.10 1269 必须放下过去的自己，才能变成未来的自己。
+- 2018.03.11 1268 The key to happiness was achievable dreams.
+- 2018.03.12 1267 Sometimes it's the little things that sting the most.
