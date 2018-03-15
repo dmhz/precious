@@ -191,3 +191,4 @@
 - 2018.03.11 1268 The key to happiness was achievable dreams.
 - 2018.03.12 1267 Sometimes it's the little things that sting the most.
 - 2018.03.13 1266 When people say that do not care what others think of them, for the most part the deceive themselves.
+- 2018.03.14 1265 Dig your well before you're thirsty.
