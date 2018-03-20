@@ -148,6 +148,7 @@
 - 2018.01.27 1311 对待生命你不妨大胆一点，因为好歹你要失去她。
 - 2018.01.28 1310 How many loved your moments of glad grace. And loved your baety with love false or true. But one man loved the pilgrim soul in you. And loved the sorrows of your changing face.
 - 2018.01.29 1309 It is an occupational hazard that anyone who has spent her life learning how to lie eventually becomes bad telling the truth.
+
 - 2018.01.30 1308 Love is that condition in which the happiness of another person is essential to your own.
 - 2018.01.31 1307 If my life is going to mean anything,I have to live it myself.
 - 2018.02.01 1306 I like the night,without the dark,we'd never see the stars.
@@ -192,3 +193,9 @@
 - 2018.03.12 1267 Sometimes it's the little things that sting the most.
 - 2018.03.13 1266 When people say that do not care what others think of them, for the most part the deceive themselves.
 - 2018.03.14 1265 Dig your well before you're thirsty.
+- 2018.03.15 1264 Emotion is contagious.
+- 2018.03.16 1263 Everthing seems simple until you think about it.
+- 2018.03.17 1262 I learned from him that often contradiction is the clearest way to truth.
+- 2018.03.18 1261 There is only one way to win hearts and that is to make oneself like unto those of whom one would be loved.
+- 2018.03.19 1260 Few things are sadder than encontering a person who knows exactly what he should do,yet cannot muster enough ernergy to do it.
+- 2018.03.20 1259 就这样一直傻，好不好。
