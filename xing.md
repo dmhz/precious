@@ -225,9 +225,9 @@
 - 2018.04.13 1235 希望是个好东西，也许是最好的，好的东西不会消亡。
 - 2018.04.14 1234 Wider ranges of normal make the world a better place for everyone.
 - 2018.04.15 1233 对“正常”的定义再宽泛一点，这个世界会更美好。
-- 2018.04.16 1232
-- 2018.04.17 1231
-- 2018.04.18 1230
+- 2018.04.16 1232 Where are you, beloved tomorrow? When young and old, and strong and weak, rich and poor, through joy and sorrow, the sweet smiles we ever seek, in the place-ah! Well-a-day! we find the thing we fled-To-day.
+- 2018.04.17 1231 你在何处，我们所恋慕的明天？不论老少，贫富，衰弱或是强健，我们总是透过欢乐，透过忧烦，无休止地寻觅你的笑颜——但等你来时，我们总看见我们所逃避的东西——今天。
+- 2018.04.18 1230 Dreams do come true, if only we wish hard enough.
 - 2018.04.19 1229
 - 2018.04.20 1228
 - 2018.04.21 1227
