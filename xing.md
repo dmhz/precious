@@ -140,7 +140,7 @@
 
 - 2018.01.20 1318 Faith removes limitations.
 - 2018.01.21 1317 Never put off till omorrow the fun you can have today.
-- 2018.01.22 1316 愿你在别打击时 记起你的珍贵 抵抗恶意 愿你在迷茫时 坚信你的珍贵 爱你所爱 行你所行 听从你心 无问西东
+- 2018.01.22 1316 愿你在被打击时 记起你的珍贵 抵抗恶意 愿你在迷茫时 坚信你的珍贵 爱你所爱 行你所行 听从你心 无问西东
 - 2018.01.23 1315 什么是真实 你看到什么 听到什么 做什么 和谁在一起 有一种 从心灵深处 满溢出来的不懊悔 也不羞耻的平和和喜悦
 - 2018.01.24 1314 当生活拿锤子抡向你的时候，只要锤不死你，你就有机会抡回去。
 - 2018.01.25 1313 于千万之中遇见你所要遇见的人，于千万年之中，时间的无涯的荒漠里，没有早一步，也没有晚一步，刚巧赶上了，没有别的话可说，惟有轻轻地一句：“噢，你也在这里？"
@@ -228,28 +228,28 @@
 - 2018.04.16 1232 Where are you, beloved tomorrow? When young and old, and strong and weak, rich and poor, through joy and sorrow, the sweet smiles we ever seek, in the place-ah! Well-a-day! we find the thing we fled-To-day.
 - 2018.04.17 1231 你在何处，我们所恋慕的明天？不论老少，贫富，衰弱或是强健，我们总是透过欢乐，透过忧烦，无休止地寻觅你的笑颜——但等你来时，我们总看见我们所逃避的东西——今天。
 - 2018.04.18 1230 Dreams do come true, if only we wish hard enough.
-- 2018.04.19 1229
-- 2018.04.20 1228
-- 2018.04.21 1227
-- 2018.04.22 1226
-- 2018.04.23 1225
-- 2018.04.24 1224
-- 2018.04.25 1223
-- 2018.04.26 1222
-- 2018.04.27 1221
-- 2018.04.28 1220
-- 2018.04.29 1219
-- 2018.04.30 1218
-- 2018.05.01 1217
-- 2018.05.02 1216
-- 2018.05.03 1215
-- 2018.05.04 1214
-- 2018.05.05 1213
-- 2018.05.06 1212
-- 2018.05.07 1211
-- 2018.05.08 1210
-- 2018.05.09 1209
-- 2018.05.10 1208
+- 2018.04.19 1229 To see a world in a grain of sand, and a heaven in a wild flower. Hold infinity in the palm of your hand, and eternity in an hour.
+- 2018.04.20 1228 从一粒沙子看到一个世界，从一朵野花看到一个天堂，把握在你手里的就是无限，永恒也就消融于一个时辰。
+- 2018.04.21 1227 People will selectively use "tradition" to justify anything.
+- 2018.04.22 1226 人们会选择性的使用“传统”这个词来为任何事情辩护。
+- 2018.04.23 1225 Take you future into your own hans. Make it happen. Life is a coloring book, but you have the pens.
+- 2018.04.24 1224 将未来握于自己手中，去实现自己的梦想。生活是一本涂色书，而彩笔在你手中。
+- 2018.04.25 1223 Life is the most spectacular show on earth.
+- 2018.04.26 1222 生命是一场最壮观的演出。
+- 2018.04.27 1221 Don't promise when you're happy. Don't reply when you're angry. Don't decide when you're sad.
+- 2018.04.28 1220 When our audiences are skeptical, the more we try to dominate them, the more they resist.
+- 2018.04.29 1219 当对方持怀疑态度时，你越想征服他，他越抵触。
+- 2018.04.30 1218 This is why dreams can be such dangerous things: they smolder on like a fire does, and sometimes they consume us completely.
+- 2018.05.01 1217 梦想本身也藏匿着危险，它就像燃烧的星星火苗，有时却能将我们吞噬殆尽。
+- 2018.05.02 1216 We all have our destiny, and whatever that destiny brings us, we cannot avoid it.
+- 2018.05.03 1215 You have to let go of who you were to become who you will be.
+- 2018.05.04 1214 最精彩的其实就是世界本身。
+- 2018.05.05 1213 流言总是带着阴沉之气，这阴沉之气有时是东西厢房的熏衣草气味，有时是樟脑丸气味，还有时是肉砧板上的气味。
+- 2018.05.06 1212 大家都是 通过面具 来互相辨认的。
+- 2018.05.07 1211 接受是容易的，难的是拒绝。人其实是所有准则都源于他人，自我思考比什么都重要。
+- 2018.05.08 1210 保持幽默感，保持尊严，认真对待自己，认真对待他人，对结果不存奢望。
+- 2018.05.09 1209 我没有女性主义者那么有信心，我不赞成任何主义，站在任何一个固定的角度看问题都必然会狭隘。
+- 2018.05.10 1208 谁都会有生存压力，这个完全不值一谈。就像你在抱怨我只能走不能飞，这是每个人都在面对的问题，看你有多大意志力了，有多大意志力的人就有多大成就，永远是这样。
 - 2018.05.11 1207
 - 2018.05.12 1206
 - 2018.05.13 1205
