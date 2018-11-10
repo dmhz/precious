@@ -135,7 +135,6 @@
 - 2018.01.17 1321 人生为棋，我愿为卒，行动虽慢；何曾后退。
 - 2018.01.18 1320 我会一直爱你，直到四海枯竭，直到太阳把岩石融化，只要我一息尚存。
 - 2018.01.19 1319 愿朱颜不改常依旧，花中消遣，酒内忘忧。分茶攧竹，打马藏阄；通五音六律滑熟，甚闲愁到我心头！你道我老也，暂休。
-
 - 2018.01.20 1318 Faith removes limitations.
 - 2018.01.21 1317 Never put off till omorrow the fun you can have today.
 - 2018.01.22 1316 愿你在被打击时 记起你的珍贵 抵抗恶意 愿你在迷茫时 坚信你的珍贵 爱你所爱 行你所行 听从你心 无问西东
@@ -146,7 +145,6 @@
 - 2018.01.27 1311 对待生命你不妨大胆一点，因为好歹你要失去她。
 - 2018.01.28 1310 How many loved your moments of glad grace. And loved your baety with love false or true. But one man loved the pilgrim soul in you. And loved the sorrows of your changing face.
 - 2018.01.29 1309 It is an occupational hazard that anyone who has spent her life learning how to lie eventually becomes bad telling the truth.
-
 - 2018.01.30 1308 Love is that condition in which the happiness of another person is essential to your own.
 - 2018.01.31 1307 If my life is going to mean anything,I have to live it myself.
 - 2018.02.01 1306 I like the night,without the dark,we'd never see the stars.
@@ -252,7 +250,7 @@
 - 2018.05.12 1206 说一个人是正经人，意味着你要遵守社会规范，尊重传统习俗，符合世俗道德。我不是那样的人。而严肃的人希望自己的生活是有目的的，不是随波逐流的，不是及时行乐的，是能获得某种意义的，比如说关于人，关于世界，关于我们为什么坐在这儿，我们为什么会是我们。
 - 2018.05.13 1205 When you talent can't support your ambition, you should calm down and learn. When your ability cannot realize your dreams, you should practice with all your heart. Ask yourself, what kind of life you pursue.
 - 2018.05.14 1204 当你的才华支撑不了你的野心的时候，你就应该静下心来学习。当你的能力驾驭不了你的目标的时候，你就应该沉下心来历练。问问你自己，想要过什么样的生活。
-- 2018.05.15 1203
+- 2018.05.15 1203 
 - 2018.05.16 1202
 - 2018.05.17 1201
 - 2018.05.18 1200
