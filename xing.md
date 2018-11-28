@@ -403,53 +403,53 @@
 - 2018.10.12 1053 Do not think they are happy people, there is absolutely no happiness.
 - 2018.10.13 1052 Happiness and luck are at a price, and there is no free lunch!
 - 2018.10.14 1051 What things can be a drag, there is no need to worry, things are slowly round.
-- 2018.10.15 1050
-- 2018.10.16 1049
-- 2018.10.17 1048
-- 2018.10.18 1047
-- 2018.10.19 1046
-- 2018.10.20 1045
-- 2018.10.21 1044
-- 2018.10.22 1043
-- 2018.10.23 1042
-- 2018.10.24 1041
-- 2018.10.25 1040
-- 2018.10.26 1039
-- 2018.10.27 1038
-- 2018.10.28 1037
-- 2018.10.29 1036
-- 2018.10.30 1035
-- 2018.10.31 1034
-- 2018.11.01 1033
-- 2018.11.02 1032
-- 2018.11.03 1031
-- 2018.11.04 1030
-- 2018.11.05 1029
-- 2018.11.06 1028
-- 2018.11.07 1027
-- 2018.11.08 1026
-- 2018.11.09 1025
-- 2018.11.10 1024
-- 2018.11.11 1023
-- 2018.11.12 1022
-- 2018.11.13 1021
-- 2018.11.14 1020
-- 2018.11.15 1019
-- 2018.11.16 1018
-- 2018.11.17 1017
-- 2018.11.18 1016
-- 2018.11.19 1015
-- 2018.11.20 1014
-- 2018.11.21 1013
-- 2018.11.22 1012
-- 2018.11.23 1011
-- 2018.11.24 1010
-- 2018.11.25 1009
-- 2018.11.26 1008
-- 2018.11.27 1007
-- 2018.11.28 1006
-- 2018.11.29 1005
-- 2018.11.30 1004
+- 2018.10.15 1050 Life does not have another chance, do not want to regret, then, with the heart to see their own.
+- 2018.10.16 1049 The more busy your boss is, the more dangerous you will get.
+- 2018.10.17 1048 Hope is the sunshine of life, action is the wings of hope.
+- 2018.10.18 1047 Every day exercises not only for fitness, in order to reflect the life.
+- 2018.10.19 1046 Do not because of a bad man, they think the whole world of men.
+- 2018.10.20 1045 Treat life seriously, treat life lively.
+- 2018.10.21 1044 The important thing in life is not the position of the station, but the direction of the.
+- 2018.10.22 1043 I don't think whether can succeed, since the choice of the distance, they only trials and hardships!
+- 2018.10.23 1042 This is not as good as you, you can be crazy; toward a day will set foot on you!
+- 2018.10.24 1041 Be sure to learn from successful people, especially those in the world.
+- 2018.10.25 1040 When you can dream, don't give up the dream.
+- 2018.10.26 1039 The biggest failure in life is to give up.
+- 2018.10.27 1038 Happiness, from the heart to start, from now on!
+- 2018.10.28 1037 Blame is just a cowardly performance; efforts, is the attitude of life.
+- 2018.10.29 1036 Pay is not necessarily a harvest, and strive to be worth it.
+- 2018.10.30 1035 When we move others stumbling block to the next frame, perhaps it is paving the way for their.
+- 2018.10.31 1034 There is no progress in life, only people who are not aggressive!
+- 2018.11.01 1033 Who depend on their own.
+- 2018.11.02 1032 Your job is cool or horrible, depending on your own opinion.
+- 2018.11.03 1031 As long as the backbone does not bend, there is no carry up the mountain!
+- 2018.11.04 1030 The best way to make your dreams come true is to wake up.
+- 2018.11.05 1029 I don't believe in life. I just believe in both hands.
+- 2018.11.06 1028 No matter when you start, it is important that you do not stop after the start.
+- 2018.11.07 1027 If your recent work is very busy, pay attention to, this may be a precursor to the crisis.
+- 2018.11.08 1026 Often unlatched the door of success, as long as you are brave to push, it will suddenly open.
+- 2018.11.09 1025 The distance between people, to maintain good, too close will tie people, too far will hurt.
+- 2018.11.10 1024 The simplest thing is to persist, the most difficult thing is to insist on.
+- 2018.11.11 1023 The establishment of the cause of life, not to know, but can do.
+- 2018.11.12 1022 There is love in the heart, the world is heaven.
+- 2018.11.13 1021 Think what is what they really want, want to continue to think.
+- 2018.11.14 1020 The ideal way is always ready for a person with confidence.
+- 2018.11.15 1019 Wide sea diving, sky.
+- 2018.11.16 1018 Brave, at the foot of the road are; the wise man, know which road to take the best.
+- 2018.11.17 1017 All the beauty of the foundation, is a kind and willing to help people's heart.
+- 2018.11.18 1016 To strike and defeat is a stepping stone to success, rather than a stumbling block.
+- 2018.11.19 1015 With people who are related to life, consumption, and life is not unrelated to the matter.
+- 2018.11.20 1014 It only has real meaning for those who are climbing it rather than looking at it.
+- 2018.11.21 1013 If a man is weak, he is his own enemy; if he is brave, he is his best friend.
+- 2018.11.22 1012 Learn to forgive, to have a tolerance of love!
+- 2018.11.23 1011 There is no rock, there is no beautiful spray; without setbacks, there is no magnificent life.
+- 2018.11.24 1010 Often ask yourself, who have grace to me not to double repay.
+- 2018.11.25 1009 You can't control the weather, but you can change your mood.
+- 2018.11.26 1008 The simple thing to do, you are an expert; repeat the things you do, you are the winner.
+- 2018.11.27 1007 Life does not have another chance, do not want to regret, then, with the heart to see their own.
+- 2018.11.28 1006 人生没有再来一次的机会，不想后悔，那就，跟看自己的心走。
+- 2018.11.29 1005 这世上没有一种感情不是千疮百孔的。短的是生命，长的是磨难。
+- 2018.11.30 1004 绿兮衣兮，绿衣黄里。心之忧矣，曷维其已。
 - 2018.12.01 1003
 - 2018.12.02 1002
 - 2018.12.03 1001
