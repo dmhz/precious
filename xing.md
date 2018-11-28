@@ -361,48 +361,48 @@
 - 2018.08.31 1095 Escape may not be avoided, the face is not necessarily difficult to turn around is not necessarily the most weak.
 - 2018.09.01 1094 The warriors fight the hack flow without destruction, coward will drown in in smooth water.
 - 2018.09.02 1093 Many people, in less as far as possible, because it is difficult to have a sincere exchange for entertainment.
-- 2018.09.03 1092
-- 2018.09.04 1091
-- 2018.09.05 1090
-- 2018.09.06 1089
-- 2018.09.07 1088
-- 2018.09.08 1087
-- 2018.09.09 1086
-- 2018.09.10 1085
-- 2018.09.11 1084
-- 2018.09.12 1083
-- 2018.09.13 1082
-- 2018.09.14 1081
-- 2018.09.15 1080
-- 2018.09.16 1079
-- 2018.09.17 1078
-- 2018.09.18 1077
-- 2018.09.19 1076
-- 2018.09.20 1075
-- 2018.09.21 1074
-- 2018.09.22 1073
-- 2018.09.23 1072
-- 2018.09.24 1071
-- 2018.09.25 1070
-- 2018.09.26 1069
-- 2018.09.27 1068
-- 2018.09.28 1067
-- 2018.09.29 1066
-- 2018.09.30 1065
-- 2018.10.01 1064
-- 2018.10.02 1063
-- 2018.10.03 1062
-- 2018.10.04 1061
-- 2018.10.05 1060
-- 2018.10.06 1059
-- 2018.10.07 1058
-- 2018.10.08 1057
-- 2018.10.09 1056
-- 2018.10.10 1055
-- 2018.10.11 1054
-- 2018.10.12 1053
-- 2018.10.13 1052
-- 2018.10.14 1051
+- 2018.09.03 1092 Time is our breath, every moment should be the heart of life.
+- 2018.09.04 1091 The lamp of life is lighted with passion, and the boat of life is moving forward.
+- 2018.09.05 1090 Change is always a required course in life, become mature is an elective course.
+- 2018.09.06 1089 As long as the road is right, is not afraid of the road.
+- 2018.09.07 1088 Mistakes are trivial, can start with a clean slate or forgive others, is extraordinary.
+- 2018.09.08 1087 Forgive others is to treat yourself and others is to treat yourself.
+- 2018.09.09 1086 Smile in the face of their own future, will find the world is very beautiful.
+- 2018.09.10 1085 You can't control others, but you can control yourself.
+- 2018.09.11 1084 An empty sack, not engrossed in their wealth.
+- 2018.09.12 1083 Optimists see the roads are broad road, the pessimist sees the roads are this way.
+- 2018.09.13 1082 Easy to get angry people, emotional intelligence is not how high, is the object of the use of small.
+- 2018.09.14 1081 A man without money is not necessarily poor, but he has no dream.
+- 2018.09.15 1080 There are two women in every man's heart: his love and his love.
+- 2018.09.16 1079 The most difficult choice is nothing more than two options, you dare, or dare not.
+- 2018.09.17 1078 The goal of life is only in the direction of the planning of life is more exciting.
+- 2018.09.18 1077 The ability to influence a group of people, not the ability to be a group of people.
+- 2018.09.19 1076 The conquest of today, coward lamented yesterday, idle waiting for tomorrow.
+- 2018.09.20 1075 To be a man, to be a man, and to be a human being.
+- 2018.09.21 1074 在人之上要把别人当人，在人之下要把自己当人。
+- 2018.09.22 1073 Life doesn't require that we be the best, only that we make the best effort!
+- 2018.09.23 1072 The employee is hired by the company, but it is a direct report to the boss.
+- 2018.09.24 1071 We this world, never give a sad behind the old people presented a medal.
+- 2018.09.25 1070 No old oath, no promise, embarked on the journey back!
+- 2018.09.26 1069 The best investment is to invest in the head.
+- 2018.09.27 1068 No one can disappoint you, except yourself.
+- 2018.09.28 1067 There is no mountain higher than the people, no longer than the foot of the road.
+- 2018.09.29 1066 When you want to lose one by one, you must be firm, to be calm!
+- 2018.09.30 1065 Good people suffer.
+- 2018.10.01 1064 Turn your face to the sunshine, there will be no shadow.
+- 2018.10.02 1063 One of the biggest bankruptcy is despair, the greatest asset is hope.
+- 2018.10.03 1062 The difficulties and frustrations are not terrible, terrible is the loss of life ambition and courage.
+- 2018.10.04 1061 I am not afraid of tens of thousands of people stop, afraid to surrender their.
+- 2018.10.05 1060 Happiness comes from the feeling of appreciation, to accept the life at present.
+- 2018.10.06 1059 Live with love, you will make your own happiness! With love, you will make a lot of people happy!
+- 2018.10.07 1058 You can't do everything well, but you can do everything with all your heart.
+- 2018.10.08 1057 Youth is not a time of life, it is a state of mind.
+- 2018.10.09 1056 This is a long way, I will seek.
+- 2018.10.10 1055 You can't stretch the length of your life, but you can decide the width of life.
+- 2018.10.11 1054 Forgiveness is the antidote to hate and hatred.
+- 2018.10.12 1053 Do not think they are happy people, there is absolutely no happiness.
+- 2018.10.13 1052 Happiness and luck are at a price, and there is no free lunch!
+- 2018.10.14 1051 What things can be a drag, there is no need to worry, things are slowly round.
 - 2018.10.15 1050
 - 2018.10.16 1049
 - 2018.10.17 1048
