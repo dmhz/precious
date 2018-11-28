@@ -315,52 +315,52 @@
 - 2018.07.16 1141 只有意外和错误，才是宇宙最恒定不变的原则。
 - 2018.07.17 1140 担心死亡是恐惧的开端，接受死亡是恐惧的结束。
 - 2018.07.18 1139 She was neither purely evil, nor purely good.
-- 2018.07.19 1138
-- 2018.07.20 1137
-- 2018.07.21 1136
-- 2018.07.22 1135
-- 2018.07.23 1134
-- 2018.07.24 1133
-- 2018.07.25 1132
-- 2018.07.26 1131
-- 2018.07.27 1130
-- 2018.07.28 1129
-- 2018.07.29 1128
-- 2018.07.30 1127
-- 2018.07.31 1126
-- 2018.08.01 1125
-- 2018.08.02 1124
-- 2018.08.03 1123
-- 2018.08.04 1122
-- 2018.08.05 1121
-- 2018.08.06 1120
-- 2018.08.07 1119
-- 2018.08.08 1118
-- 2018.08.09 1117
-- 2018.08.10 1116
-- 2018.08.11 1115
-- 2018.08.12 1114
-- 2018.08.13 1113
-- 2018.08.14 1112
-- 2018.08.15 1111
-- 2018.08.16 1110
-- 2018.08.17 1109
-- 2018.08.18 1108
-- 2018.08.19 1107
-- 2018.08.20 1106
-- 2018.08.21 1105
-- 2018.08.22 1104
-- 2018.08.23 1103
-- 2018.08.24 1102
-- 2018.08.25 1101
-- 2018.08.26 1100
-- 2018.08.27 1099
-- 2018.08.28 1098
-- 2018.08.29 1097
-- 2018.08.30 1096
-- 2018.08.31 1095
-- 2018.09.01 1094
-- 2018.09.02 1093
+- 2018.07.19 1138 道路平坦了，心反而不在目标上了。只有在坎坷的路上行走，才能磨练一个人的心志啊！
+- 2018.07.20 1137 这是一沟绝望的死水，清风吹不起半点漪沦。不如多扔些破铜烂铁，爽性泼你的剩菜残羹。也许铜的要绿成翡翠，铁罐上绣出几瓣桃花；再让油腻织一层罗琦，霉菌给他蒸出些云霞。
+- 2018.07.21 1136 I can't change the direction of the wind, but I can adjust my sails to always reach my destination.
+- 2018.07.22 1135 If you really want to do something, you'll find a way. If you don't, you'll find an excuse.
+- 2018.07.23 1134 Don't throw in the towel, because you still have a dream.
+- 2018.07.24 1133 The stars will shine in the sky.
+- 2018.07.25 1132 No one can conquer fate without contempt, suffering and struggle.
+- 2018.07.26 1131 Learn to learn the best, to do the first.
+- 2018.07.27 1130 If you have a shadow in front of you, it's because you have the sun behind you.
+- 2018.07.28 1129 Have the courage, the rise should be emboldened.
+- 2018.07.29 1128 To achieve their goals, must be able to stand alone and lonely.
+- 2018.07.30 1127 Can not complain about the unfair society, since God did not give you what you want to go to fight for their own.
+- 2018.07.31 1126 People don't have to be beautiful, but they must live pretty.
+- 2018.08.01 1125 Make a careful consideration before making a decision. If you make a decision, you should go ahead and stick to it.
+- 2018.08.02 1124 The greatest gift we have received from nature is life.
+- 2018.08.03 1123 Running is not only a kind of ability, it is a kind of attitude, which determines your attitude towards life.
+- 2018.08.04 1122 Life is not Lin Daiyu, not because of sadness and customs.
+- 2018.08.05 1121 Laugh, I naturally!
+- 2018.08.06 1120 Good for the successful laying track, to create outstanding ladder of adversity.
+- 2018.08.07 1119 How to leave today, at least you have tomorrow.
+- 2018.08.08 1118 Don't always blame God for your injustice, in fact, God do not know who you are.
+- 2018.08.09 1117 There is always an excuse to escape, you always have a way to succeed!
+- 2018.08.10 1116 There is only one thing in the world that can withstand the impact of life: a peaceful heart.
+- 2018.08.11 1115 Always in a positive and optimistic attitude to develop themselves and the outside world.
+- 2018.08.12 1114 Lust like drug, for a long time since addictive.
+- 2018.08.13 1113 Spend a little bit of time each day to think about what you should be thankful for, such as the heart is not yet retired.
+- 2018.08.14 1112 Have the courage to commit suicide, why not take the courage to continue to live the courage of suicide?
+- 2018.08.15 1111 Life is not a one-way street, the road is not quickly turn.
+- 2018.08.16 1110 I will fight for my dream.
+- 2018.08.17 1109 I should live as if my life is for the benefit of others.
+- 2018.08.18 1108 With the ideal of paper, with diligence as pen, writing a magnificent youth.
+- 2018.08.19 1107 Life does not believe in tears, tears does not mean weakness.
+- 2018.08.20 1106 It can only change.
+- 2018.08.21 1105 Venting can relieve your emotions, but not by hurting yourself or others.
+- 2018.08.22 1104 To be angry is to punish yourself with other people's mistakes.
+- 2018.08.23 1103 Don't think you can do better than others, even if you are a good person.
+- 2018.08.24 1102 The opportunity will not take the initiative to find you, you must show yourself.
+- 2018.08.25 1101 Their choice of road, kneeling also want to finish it.
+- 2018.08.26 1100 Sow in tears, harvest.
+- 2018.08.27 1099 Failure is a matter, should not be a person.
+- 2018.08.28 1098 To defeat oneself is the most pathetic failure, and the most valuable victory is to defeat yourself.
+- 2018.08.29 1097 There is no longer than the people of the mountain no longer than the foot of the road.
+- 2018.08.30 1096 Successful people are learning experience with others, the failure of the people only with their own learning experience.
+- 2018.08.31 1095 Escape may not be avoided, the face is not necessarily difficult to turn around is not necessarily the most weak.
+- 2018.09.01 1094 The warriors fight the hack flow without destruction, coward will drown in in smooth water.
+- 2018.09.02 1093 Many people, in less as far as possible, because it is difficult to have a sincere exchange for entertainment.
 - 2018.09.03 1092
 - 2018.09.04 1091
 - 2018.09.05 1090
