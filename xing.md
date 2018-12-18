@@ -457,3 +457,14 @@
 - 2018.12.05 0999 生活的理想，就是理想的生活。
 - 2018.12.06 0998 假如我，能弥合一个破碎的心灵，我就没有虚度此生；假如我，能使一个饱受折磨的人的痛苦得到减轻，或者帮助一只小鸟，一只垂危的知更，重新回到它的鸟巢，去见他的双亲，我就没有虚度此生。
 - 2018.12.07 0997 How you think about a problem is more important than the problem itself, so always think positively.
+- 2018.12.08 0996 既然人生的幕布已经拉开，就一定要积极的演出；既然脚步已经跨出，风雨坎坷也不能退步；既然我已把希望播在这里，就一定要坚持到胜利的谢幕。
+- 2018.12.09 0995 不要着急，最好的总会在最不经意的时候出现。
+- 2018.12.10 0994 I can and I will.
+- 2018.12.11 0993 若有恒，何必三更眠五更起；最无益，莫过一日曝十日寒。
+- 2018.12.12 0992 Freedom lies in being bold.
+- 2018.12.13 0991 I won't just survive. Oh, you will see me thrive.
+- 2018.12.14 0990 If you wish to reach the highest, begin at the lowest.
+- 2018.12.15 0989 Laughter brings out the child in all of us.
+- 2018.12.16 0988 Dreams are the touchstones of our characters.
+- 2018.12.17 0987 Real generosity towards the future lies in giving all to the present.
+- 2018.12.18 0986 It's up to you how far you go. If you don't try, you'll never know.
