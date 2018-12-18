@@ -447,7 +447,7 @@
 - 2018.11.25 1009 You can't control the weather, but you can change your mood.
 - 2018.11.26 1008 The simple thing to do, you are an expert; repeat the things you do, you are the winner.
 - 2018.11.27 1007 Life does not have another chance, do not want to regret, then, with the heart to see their own.
-- 2018.11.28 1006 人生没有再来一次的机会，不想后悔，那就，跟看自己的心走。
+- 2018.11.28 1006 人生没有再来一次的机会，不想后悔，那就，跟着自己的心走。
 - 2018.11.29 1005 这世上没有一种感情不是千疮百孔的。短的是生命，长的是磨难。
 - 2018.11.30 1004 绿兮衣兮，绿衣黄里。心之忧矣，曷维其已。
 - 2018.12.01 1003 春天的第一只蝴蝶，身披橙色和紫色，从我的路上飞过，一朵飞行的花，改变了，我生活的颜色。
