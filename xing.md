@@ -481,6 +481,6 @@
 - 2018.12.29 0975 Courage is fear holding on a minute longer.
 - 2018.12.30 0974 You can't be paralyzed by fear of failure or you will never push youself.
 - 2018.12.31 0973 Every new beginning comes from some other beginning's end.
-- 2018.01.01 0972 The new year stands before us, like a chapter in a book, waiting to be written.
-- 2018.01.02 0971 You cannot create experience. you must undergo it.
-- 2018.01.03 0970
+- 2019.01.01 0972 The new year stands before us, like a chapter in a book, waiting to be written.
+- 2019.01.02 0971 You cannot create experience. you must undergo it.
+- 2019.01.03 0970
