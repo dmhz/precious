@@ -468,3 +468,19 @@
 - 2018.12.16 0988 Dreams are the touchstones of our characters.
 - 2018.12.17 0987 Real generosity towards the future lies in giving all to the present.
 - 2018.12.18 0986 It's up to you how far you go. If you don't try, you'll never know.
+- 2018.12.19 0985 Love lives on inside our hearts and always will. 
+- 2018.12.20 0984 Listen to what you know instead of what you fear.
+- 2018.12.21 0983 Blessed is the man who expected nothing, for he shall never be disappointed.
+- 2018.12.22 0982 Regret for the things we did can be tempered by time; it is regret for the things we did not do that is inconsolable.
+- 2018.12.23 0981 If I fail, if I succeed, at least I live as I believe.
+- 2018.12.24 0980 Christmas Eve was a night of song that wrapped itself about you like a shawl.
+- 2018.12.25 0979 What is Christmas? It is tenderness for the past, courage for the present, hope for the future.
+- 2018.12.26 0978 Handwriting is more connected to the movement of the heart.
+- 2018.12.27 0977 The best colour in the whole world is the one that looks good on you.
+- 2018.12.28 0976 Sometimes when grownups say "forever", they mean "a very long time".
+- 2018.12.29 0975 Courage is fear holding on a minute longer.
+- 2018.12.30 0974 You can't be paralyzed by fear of failure or you will never push youself.
+- 2018.12.31 0973 Every new beginning comes from some other beginning's end.
+- 2018.01.01 0972 The new year stands before us, like a chapter in a book, waiting to be written.
+- 2018.01.02 0971 You cannot create experience. you must undergo it.
+- 2018.01.03 0970
