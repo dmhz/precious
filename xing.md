@@ -485,3 +485,13 @@
 - 2019.01.02 0971 You cannot create experience. you must undergo it.
 - 2019.01.03 0970 If you walk the footsteps of a stranger, you'll learn things you never knew.
 - 2019.01.04 0969 Look at the stars; look how they shine for you and everthing you do.
+- 2019.01.05 0968 Keep holding on, 'cause you know we'll make it through.
+- 2019.01.06 0967 I don't know how I'm going to live with myself if I don't stay true to what I believe.
+- 2019.01.07 0966 You don't have time to be timid. You must be bold, daring.
+- 2019.01.08 0965 Life doesn't get easier or move forgiving; we get stronger and more resilient.
+- 2019.01.09 0964 Sometimes your whole life boils down to one insane move.
+- 2019.01.10 0963 The best way out is always through.
+- 2019.01.11 0962 Ideas shape the course of history.
+- 2019.01.12 0961 It's supposed to be hard. If it wasn't hard, Everyone would do it.
+- 2019.01.13 0960 Give light and people will find the way.
+- 2019.01.14 0959 All your lights are red, but I'm green to go.
