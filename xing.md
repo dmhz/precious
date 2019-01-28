@@ -495,3 +495,16 @@
 - 2019.01.12 0961 It's supposed to be hard. If it wasn't hard, Everyone would do it.
 - 2019.01.13 0960 Give light and people will find the way.
 - 2019.01.14 0959 All your lights are red, but I'm green to go.
+- 2019.01.15 0958 Do not linger to gather flowers to keep them, but walk on, for flowers will keep themselves blooming all your way.
+- 2019.01.16 0957 People grow through experience if they meet life honesty and courageously.
+- 2019.01.17 0956 You can't sweep other people off their feet, if you can't be swept off your own.
+- 2019.01.18 0955 Not having the best situation, but seeing the best in your situation is the key to happiness.
+- 2019.01.19 0954 Never does nature say one thing and wisdom another.
+- 2019.01.20 0953 Why are you trying so hard to fit in when you are born to stand out?
+- 2019.01.21 0952 Do you know that there's still a chance for you? Cause there's a spark in you.
+- 2019.01.22 0951 It is by acts and not by ideas that people live.
+- 2019.01.23 0950 Even the darkest night will end, and the sun will rise.
+- 2019.01.24 0949 Feel the fear and do it anyway.
+- 2019.01.25 0948 Remember there's no such thing as a small act of kindness. Every act craetes a ripplie with no logical end.
+- 2019.01.26 0947 Life moves pretty fast. If you don't stop and look around once in a while, you could miss it.
+- 2019.01.27 0946 You don't have to bend until you break. You just have to get up. 
