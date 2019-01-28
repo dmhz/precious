@@ -508,3 +508,4 @@
 - 2019.01.25 0948 Remember there's no such thing as a small act of kindness. Every act craetes a ripplie with no logical end.
 - 2019.01.26 0947 Life moves pretty fast. If you don't stop and look around once in a while, you could miss it.
 - 2019.01.27 0946 You don't have to bend until you break. You just have to get up. 
+- 2019.01.28 0945 We live in the world when we love it.
