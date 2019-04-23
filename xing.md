@@ -509,3 +509,126 @@
 - 2019.01.26 0947 Life moves pretty fast. If you don't stop and look around once in a while, you could miss it.
 - 2019.01.27 0946 You don't have to bend until you break. You just have to get up. 
 - 2019.01.28 0945 We live in the world when we love it.
+- 2019.01.29 0944 Reading brings us unknown friends.
+- 2019.01.30 0943 Love yourself, It is important to stay positive because beauty comes from the inside out.
+- 2019.01.31 0942 Where flowers bloom, so does hope.
+- 2019.02.01 0941 It is the set of the sails, not the direction of the wind that determines which way we will go.
+- 2019.02.02 0940 You use a glass mirror to see your face; you use works of art to see your soul.
+- 2019.02.03 0939 The best thing you can do is kown yourself, and feel yourself, and be yourself.
+- 2019.02.04 0938 We must act out passion before we can feel it.
+- 2019.02.05 0937 We all help each other stay strong. No one is strong alone.
+- 2019.02.06 0936 I arise full of eagerness and energy, kowning well what achievement lies ahead of me.
+- 2019.02.07 0935 How you live your life is your business; just remember, our hearts and our bodies are given to us only once.
+- 2019.02.08 0934 I believe that if one always looked at the skies, one would end up with wings.
+- 2019.02.09 0933 If I see you next to never, how can we say forever? 
+- 2019.02.10 0932 All you need is the plan, the road map, and the courage to press on to your destination.
+- 2019.02.11 0932 Everything that you always wished for could be yours, should be yours, would be yours.
+- 2019.02.12 0930 Act as if what you do makes a difference. It does.
+- 2019.02.13 0929 I'll be the one, if you want me to. Anywhere, I would've followed you.
+- 2019.02.14 0928
+- 2019.02.15 0927
+- 2019.02.16 0926
+- 2019.02.17 0925
+- 2019.02.18 0924
+- 2019.02.19 0923
+- 2019.02.20 0922
+- 2019.02.21 0921
+- 2019.02.22 0920
+- 2019.02.23 0919
+- 2019.02.24 0918
+- 2019.02.25 0917
+- 2019.02.26 0916
+- 2019.02.27 0915
+- 2019.02.28 0914
+- 2019.03.01 0913
+- 2019.03.02 0912
+- 2019.03.03 0911
+- 2019.03.04 0910
+- 2019.03.05 0909
+- 2019.03.06 0908
+- 2019.03.07 0907
+- 2019.03.08 0906
+- 2019.03.09 0905
+- 2019.03.10 0904
+- 2019.03.11 0903
+- 2019.03.12 0902
+- 2019.03.13 0901
+- 2019.03.14 0900
+- 2019.03.15 0899
+- 2019.03.16 0898
+- 2019.03.17 0897
+- 2019.03.18 0896
+- 2019.03.19 0895
+- 2019.03.20 0894
+- 2019.03.21 0893
+- 2019.03.22 0892
+- 2019.03.23 0891
+- 2019.03.24 0890
+- 2019.03.25 0889
+- 2019.03.26 0888
+- 2019.03.27 0887
+- 2019.03.28 0886
+- 2019.03.29 0885
+- 2019.03.30 0884
+- 2019.03.31 0883
+- 2019.04.01 0882
+- 2019.04.02 0881
+- 2019.04.03 0880
+- 2019.04.04 0879
+- 2019.04.05 0878
+- 2019.04.06 0877
+- 2019.04.07 0876
+- 2019.04.08 0875
+- 2019.04.09 0874
+- 2019.04.10 0873
+- 2019.04.11 0872
+- 2019.04.12 0871
+- 2019.04.13 0870
+- 2019.04.14 0869
+- 2019.04.15 0868
+- 2019.04.16 0867
+- 2019.04.17 0866
+- 2019.04.18 0865
+- 2019.04.19 0864
+- 2019.04.20 0863
+- 2019.04.21 0862
+- 2019.04.22 0861
+- 2019.04.23 0860
+- 2019.04.24
+- 2019.04.25
+- 2019.04.26
+- 2019.04.27
+- 2019.04.28
+- 2019.04.29
+- 2019.04.30
+- 2019.05.01
+- 2019.05.02
+- 2019.05.03
+- 2019.05.04
+- 2019.05.05
+- 2019.05.06
+- 2019.05.07
+- 2019.05.08
+- 2019.05.09
+- 2019.05.10
+- 2019.05.11
+- 2019.05.12
+- 2019.05.13
+- 2019.05.14
+- 2019.05.15
+- 2019.05.16
+- 2019.05.17
+- 2019.05.18
+- 2019.05.19
+- 2019.05.20
+- 2019.05.21
+- 2019.05.22
+- 2019.05.23
+- 2019.05.24
+- 2019.05.25
+- 2019.05.26
+- 2019.05.27
+- 2019.05.28
+- 2019.05.29
+- 2019.05.30
+- 2019.05.31
