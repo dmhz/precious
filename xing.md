@@ -525,9 +525,9 @@
 - 2019.02.11 0932 Everything that you always wished for could be yours, should be yours, would be yours.
 - 2019.02.12 0930 Act as if what you do makes a difference. It does.
 - 2019.02.13 0929 I'll be the one, if you want me to. Anywhere, I would've followed you.
-- 2019.02.14 0928
-- 2019.02.15 0927
-- 2019.02.16 0926
+- 2019.02.14 0928 The glow of one warm thought is to me worth more than money.
+- 2019.02.15 0927 Follow your bliss and the universe will open doors for you where there were only walls.
+- 2019.02.16 0926 The swallows return on New Communal Day; clear and bright follows, after pear blossoms fade.
 - 2019.02.17 0925
 - 2019.02.18 0924
 - 2019.02.19 0923
